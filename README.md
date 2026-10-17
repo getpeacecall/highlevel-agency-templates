@@ -31,6 +31,17 @@ More guides: [getpeacecall.com](https://getpeacecall.com/?utm_source=github&utm_
 - Safety lines (gas, smoke, sparks, CO, 911) come first and must be approved by the business owner.
 - These are starting points, not promises of results.
 
+## Where else to find Peace Call
+Free guides and the same templates in other formats :
+- Videos: [YouTube](https://www.youtube.com/@getpeacecall) · [PeerTube](https://peertube.watch/c/peacecall_channel)
+- Articles: [Dev.to](https://dev.to/getpeacecall) · [Medium](https://medium.com/@peacecall) · [Hashnode](https://getpeacecall.hashnode.dev)
+- Social: [Bluesky](https://bsky.app/profile/getpeacecall.com) · [Mastodon](https://mastodon.social/@getpeacecall)
+- Curated list: [awesome-gohighlevel](https://github.com/getpeacecall/awesome-gohighlevel)
+- 日本語: [note](https://note.com/getpeacecall) · [はてなブログ](https://getpeacecall.hatenablog.com/) · [Zenn](https://zenn.dev/peacecall)
+- Every channel: [getpeacecall.com/elsewhere](https://getpeacecall.com/elsewhere/?utm_source=github&utm_medium=repo&utm_campaign=agency-templates)
+
+Peace Call is an independent HighLevel affiliate (disclosed on the site). The templates here contain no affiliate links. Drafted with AI assistance and reviewed.
+
 ## Contributing
 Issues and pull requests with corrections or new trades are welcome. Please do not add affiliate or referral links.
 
