@@ -1,5 +1,7 @@
 # Changelog
 
+- 2026-10-24: Added `voice-ai/salon-med-spa-intake-fields.md`: what a salon or med spa AI receptionist should collect on the call, what to leave for staff or secure forms, one urgent-triage question, and five launch tests.
+
 - 2026-10-22: Added `voice-ai/hvac-plumbing-intake-fields.md`: 13 CRM fields for HVAC and plumbing calls, a four-level triage table with placeholder safety lines, a HighLevel Voice AI action map, and seven launch tests.
 
 - 2026-10-21: Added `voice-ai/voice-ai-trial-test-log.md`: a one-agent trial log with 15 test scenarios, a Web Call vs Phone Call column for transfers, and an after-test cost check.
