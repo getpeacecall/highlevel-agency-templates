@@ -1,5 +1,7 @@
 # Changelog
 
+- 2026-10-26: Added `missed-call-text-back/manual-callback-and-follow-up-texts.csv`: five texts for returning a missed call by hand and for a single follow-up when there's no reply, with character counts and usage notes. Bracketed placeholders count toward length until replaced.
+
 - 2026-10-25: Added `trial/14-day-trial-cost-tracker.md`: a fill-in sheet for HighLevel's 14-day trial covering key dates, one-time and monthly charges, a daily wallet usage log, cost per test call, and the cancel steps.
 
 - 2026-10-24: Added `voice-ai/salon-med-spa-intake-fields.md`: what a salon or med spa AI receptionist should collect on the call, what to leave for staff or secure forms, one urgent-triage question, and five launch tests.

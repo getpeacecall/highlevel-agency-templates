@@ -1,0 +1,6 @@
+id,type,when_to_use,text,chars,notes
+24,manual_reply,You saw the missed call later and are texting back by hand,"Hi, this is [Name] from [Business]. Sorry I missed your call earlier. What can I help with? Happy to call back if easier.",121,Reply the same day if you can
+25,manual_reply,You can offer two call times today,"Hi, [Name] at [Business] returning your call. I can call you at [2pm] or [4pm] today. Which works, or is text better?",117,Two specific times are easier to answer than an open question
+26,manual_reply,You were on a job when the call came in,"Hi, it's [Name] from [Business]. Got your missed call while I was on a job. Reply with what you need and I'll get on it.",120,If they left a voicemail mention it so they don't repeat themselves
+22,follow_up,No reply to the first text (send once at most),Hi again from [Business]. Just checking you got the help you needed. Reply anytime if we can still help.,104,One automatic follow-up at most
+23,follow_up,No reply and you have real openings to offer (send once at most),[Business] here. We're holding a few openings [tomorrow]. Want one? Reply YES and we'll confirm.,96,Only if the openings are real
