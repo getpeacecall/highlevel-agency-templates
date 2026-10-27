@@ -1,5 +1,7 @@
 # Changelog
 
+- 2026-10-28: Added `templates/law-firm-after-hours-intake-sheet.md`: a callback-first, one-page intake sheet for after-hours law firm calls (eight fields, a stop-the-story line, and an urgent-routing table), following the limited-intake approach in ABA Formal Opinion 510. Not legal advice.
+
 - 2026-10-27: Added `worksheets/ai-employee-break-even-worksheet.md`: a monthly per-location worksheet for deciding between HighLevel AI Employee Growth ($50) and Unlimited ($97), with the break-even formula and two reference points (about 883 minutes at $0.06/min, about 319 with ElevenLabs V3). Rates as published in October 2026.
 
 - 2026-10-26: Added `missed-call-text-back/manual-callback-and-follow-up-texts.csv`: five texts for returning a missed call by hand and for a single follow-up when there's no reply, with character counts and usage notes. Bracketed placeholders count toward length until replaced.
