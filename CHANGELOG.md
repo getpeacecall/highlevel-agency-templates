@@ -1,5 +1,7 @@
 # Changelog
 
+- 2026-10-30: Added `templates/jobber-highlevel-monthly-cost-sheet.csv`: a spreadsheet-ready list of the published Jobber and HighLevel prices a home service business is most likely to pay (plans, extra users, AI Receptionist, phone number, SMS, A2P, Voice AI), each with the date it was checked and empty columns for your own quantities and monthly total. Prices come from each company's pricing page and help center as of October 8, 2026; check them again before you decide. Prepared with AI assistance; Peace Call is a HighLevel affiliate.
+
 - 2026-10-28: Added `templates/law-firm-after-hours-intake-sheet.md`: a callback-first, one-page intake sheet for after-hours law firm calls (eight fields, a stop-the-story line, and an urgent-routing table), following the limited-intake approach in ABA Formal Opinion 510. Not legal advice.
 
 - 2026-10-27: Added `worksheets/ai-employee-break-even-worksheet.md`: a monthly per-location worksheet for deciding between HighLevel AI Employee Growth ($50) and Unlimited ($97), with the break-even formula and two reference points (about 883 minutes at $0.06/min, about 319 with ElevenLabs V3). Rates as published in October 2026.

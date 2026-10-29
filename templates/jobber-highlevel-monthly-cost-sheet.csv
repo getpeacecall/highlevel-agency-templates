@@ -1,0 +1,18 @@
+line_item,tool,published_price_usd,unit,source_checked,your_quantity,your_monthly_cost,notes
+Jobber Core (1 user; billed annually),Jobber,29,per month,2026-10-08,,,"$39 with 1-year commitment paid monthly; $49 no commitment"
+Jobber Connect (1 user; billed annually),Jobber,99,per month,2026-10-08,,,"5/10/15 users: $149/$229/$299 billed annually"
+Jobber Grow (1 user; billed annually),Jobber,149,per month,2026-10-08,,,"Adds two-way SMS; 5/10/15 users: $229/$299/$399 billed annually"
+Jobber Plus (5 users; billed annually),Jobber,399,per month,2026-10-08,,,"Includes AI Receptionist with unlimited usage; 10/15 users: $449/$529"
+Jobber extra user,Jobber,29,per user per month,2026-10-08,,,
+Jobber AI Receptionist add-on (30 conversations),Jobber,29,per month,2026-10-08,,,"Not needed on Plus"
+Jobber AI Receptionist extra conversation,Jobber,0.79,per conversation,2026-10-08,,,"Spam or no-conversation calls are not counted; can pause at the limit"
+Jobber Sales Pipeline add-on,Jobber,49,per month,2026-10-08,,,
+Jobber Marketing Suite add-on,Jobber,99,per month,2026-10-08,,,
+Jobber card processing,Jobber,2.9% + 0.30,per card payment,2026-10-08,,,"Enter your own monthly card volume"
+HighLevel Starter,HighLevel,97,per month,2026-10-08,,,"3 sub-accounts; unlimited contacts and users; usage billed separately"
+HighLevel local phone number,HighLevel,1.15,per number per month,2026-10-08,,,
+HighLevel SMS segment (outbound or inbound),HighLevel,0.00747,per segment,2026-10-08,,,"Plus a carrier fee per message"
+HighLevel inbound call answered in app,HighLevel,0.01165,per minute,2026-10-08,,,"Full minutes; partial minutes round up"
+HighLevel A2P 10DLC registration (Low Volume),HighLevel,22.50,one time,2026-10-08,,,"Plus $1.50 to $10.50 per campaign per month; fees start at submission"
+HighLevel Voice AI voice engine (pay-per-use),HighLevel,0.045,per minute,2026-10-08,,,"Plus text-to-speech and LLM tokens"
+HighLevel AI Employee Growth (optional),HighLevel,50,per sub-account per month,2026-10-08,,,"Unlimited option: $97"
